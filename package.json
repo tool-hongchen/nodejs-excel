@@ -1,0 +1,26 @@
+{
+ "name": "nodejs-excel",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "test": ""
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/tool-hongchen/nodejs-excel.git"
+ },
+ "author": "hongchen",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/tool-hongchen/nodejs-excel/issues"
+ },
+ "homepage": "https://github.com/tool-hongchen/nodejs-excel#readme",
+ "dependencies": {
+  "excel-export": "^0.4.1",
+  "express": "^4.8.8",
+  "node-xlrd": "^0.2.4",
+  "node-xlsx": "^0.14.1",
+  "xlsx": "^0.14.1"
+ }
+}
